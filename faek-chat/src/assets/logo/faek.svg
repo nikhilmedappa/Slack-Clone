@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214" height="72" viewBox="0 0 214 72">
+  <g id="Logo" transform="translate(-819 -200)">
+    <text id="faek" transform="translate(888 255)" fill="#fff" font-size="72" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">faek</tspan></text>
+    <g id="Logo-2" data-name="Logo" transform="translate(0 30)">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="49" height="16" rx="8" transform="translate(819 170)" fill="#fff"/>
+      <path id="Rectangle_4" data-name="Rectangle 4" d="M8,0H8a8,8,0,0,1,8,8V8a8,8,0,0,1-8,8H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(835 226) rotate(180)" fill="#fff"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="33" height="16" rx="8" transform="translate(819 190)" fill="#fff"/>
+      <path id="Rectangle_6" data-name="Rectangle 6" d="M7,0H7a7,7,0,0,1,7,7V7a7,7,0,0,1-7,7H0a0,0,0,0,1,0,0V7A7,7,0,0,1,7,0Z" transform="translate(834 225) rotate(180)" fill="#cc3c3c"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="31" height="14" rx="7" transform="translate(820 191)" fill="#ffdb17"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="47" height="14" rx="7" transform="translate(820 171)" fill="#4c985b"/>
+    </g>
+  </g>
+</svg>

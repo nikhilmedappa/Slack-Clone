@@ -1,0 +1,78 @@
+.home {
+    position: relative;
+    margin: 0 auto;
+    padding: 0;
+    background-color: rgb(31, 31, 31);
+    width: 80%;
+    align-self: center;
+    border-radius: 2px;;
+
+}
+
+.chat-input {
+    margin-top: 2rem;
+    width: 200px;
+    height: 16px;
+    padding: 10px;
+    border-radius: 2px;
+    border: none;
+}
+
+.welcome-msg {
+    position: relative;
+    color: white;
+    top: 20px;
+}
+
+h3 {
+    position: relative;
+    color: rgb(255, 255, 125);
+    top: 20px;
+}
+
+.addchat-form {
+    position: relative;
+    display: block;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.add-chat-btn {
+    margin-top: 10px;
+    width: 4rem;
+    height: 2rem;
+    border-radius: 2px;
+    border: none;
+    background-color: darkgreen;
+    color: white;
+}
+
+.chatrooms {
+    position: relative;
+    width: 100%;
+    background-color: white;
+    align-self: center;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.chatroom {
+    position: relative;
+    display: inline-block;
+    background-color: seagreen;
+    color: white;
+    border-radius: 2px;
+    width: 400px;
+    margin: 2px;
+}
+
+.join {
+    position: relative;
+    background-color: rgb(255, 255, 125);
+    border-radius: 2px;
+    border: none;
+    width: 6rem;
+    margin: 10px auto;
+    height: 25px;
+    color: black;
+}

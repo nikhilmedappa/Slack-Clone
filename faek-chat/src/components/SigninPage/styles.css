@@ -1,0 +1,49 @@
+.signin {
+    background-color: black;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.dark-bg-welcome {
+    background-color: rgb(31, 31, 31);
+    margin: 40px auto;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    border-radius: 2px;
+    justify-content: center;
+
+}
+
+.signin-input {
+    margin-top: 2rem;
+    width: 200px;
+    height: 16px;
+    padding: 10px;
+    border-radius: 2px;
+    border: none;
+}
+
+.signin-btn {
+    margin-top: 10px;
+    width: 8rem;
+    height: 2rem;
+    border-radius: 2px;
+    border: none;
+    background-color: darkgreen;
+    color: white;
+}
+
+.alert {
+    position: absolute;
+    color: red;
+    margin: 4px auto;
+    font-size: 14px;
+}
+
+.register-link {
+    position: relative;
+    top: 100px;
+}
